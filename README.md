@@ -72,7 +72,9 @@
 
 - 🌱 I’m currently learning **Express, React, Typescript**
 - 📫 reach me here **manosatpathy@gmail.com**
-- ⚡ Fun fact **I am a tech enthusiast who transitioned from the world of business (I'm an MBA graduate) to become a coding ninja, learning the ways of the web development world!**
+
+<summary>Fun fact</summary>
+- **I am a tech enthusiast who transitioned from the world of business (I'm an MBA graduate) to become a coding ninja, learning the ways of the web development world!**
 
 
 
