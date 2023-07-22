@@ -66,14 +66,14 @@
   </a>
 </p>
 
-<details>
+
 <summary>More about me</summary>
 <br>
 
 - 🌱 I’m currently learning **Express, React, Typescript**
-- 📫 How to reach me **manosatpathy@gmail.com**
+- 📫 reach me here **manosatpathy@gmail.com**
 - ⚡ Fun fact **I am a tech enthusiast who transitioned from the world of business (I'm an MBA graduate) to become a coding ninja, learning the ways of the web development world!**
 
-</details>
+
 
 <!-- Add any other sections or elements you'd like to include -->
