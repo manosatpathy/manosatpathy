@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoranjan Satpathy</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">I am a passionate full-stack web developer currently focusing on learning and building projects with Express, React, and TypeScript. My journey in web development has been exciting, and I'm enthusiastic about exploring new technologies and improving my skills.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manosatpathy" alt="manosatpathy" /></a> </p>
 
