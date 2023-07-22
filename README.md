@@ -74,7 +74,7 @@
 - 📫 reach me here **manosatpathy@gmail.com**
 
 <summary>Fun fact</summary>
-- **I am a tech enthusiast who transitioned from the world of business (I'm an MBA graduate) to become a coding ninja, learning the ways of the web development world!**
+- I am a tech enthusiast who transitioned from the world of business (I'm an MBA graduate) to become a coding ninja, learning the ways of the web development world!**
 
 
 
