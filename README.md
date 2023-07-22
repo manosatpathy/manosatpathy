@@ -3,15 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manosatpathy" alt="manosatpathy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@manosatpathy" target="blank"><img src="https://img.shields.io/twitter/follow/@manosatpathy?logo=twitter&style=for-the-badge" alt="@manosatpathy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manosatpathy" target="blank"><img src="https://img.shields.io/twitter/follow/manosatpathy?logo=twitter&style=for-the-badge" alt="manosatpathy" /></a> </p>
 
 - 🌱 I’m currently learning **Express, react, Typescript**
 
 - 📫 How to reach me **manosatpathy@gmail.com**
 
+- ⚡ Fun fact **I am a tech enthusiast who transitioned from the world of business (I'm an MBA graduate) to become a coding ninja, learning the ways of the web development world!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@manosatpathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manosatpathy" height="30" width="40" /></a>
+<a href="https://twitter.com/manosatpathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manosatpathy" height="30" width="40" /></a>
 <a href="https://instagram.com/manosatpathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manosatpathy" height="30" width="40" /></a>
 </p>
 
