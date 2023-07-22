@@ -25,17 +25,6 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- Add more of your favorite languages and tools icons here -->
-</p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manosatpathy&show_icons=true&locale=en&layout=compact" alt="manosatpathy" />
 </p>
@@ -48,5 +37,28 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manosatpathy&" alt="manosatpathy" />
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <!-- Add more of your favorite languages and tools icons here -->
+</p>
+
 <!-- Add any additional sections, projects, or achievements you'd like to showcase -->
+
+<details>
+<summary>More about me</summary>
+<br>
+
+- 🌱 I’m currently learning **Express, React, Typescript**
+- 📫 How to reach me **manosatpathy@gmail.com**
+- ⚡ Fun fact **I am a tech enthusiast who transitioned from the world of business (I'm an MBA graduate) to become a coding ninja, learning the ways of the web development world!**
+
+</details>
+
+<!-- Add any other sections or elements you'd like to include -->
 
