@@ -70,7 +70,7 @@
 <summary>More about me</summary>
 <br>
 
-- 🌱 I’m currently learning **Express, React, Typescript**
+- 🌱 I’m currently learning **Typescript, NextJs, PostgreSQL**
 - 📫 reach me here **manosatpathy@gmail.com**
 
 <summary>Fun fact</summary>
